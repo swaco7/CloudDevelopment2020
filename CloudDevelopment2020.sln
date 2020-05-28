@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudDevelopment2020", "CloudDevelopment2020\CloudDevelopment2020.csproj", "{F4283D18-AF05-42FD-AB17-4B00814AA55B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4283D18-AF05-42FD-AB17-4B00814AA55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4283D18-AF05-42FD-AB17-4B00814AA55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4283D18-AF05-42FD-AB17-4B00814AA55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4283D18-AF05-42FD-AB17-4B00814AA55B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B3D4183-D4CC-457C-BB33-8B325D8B6BDE}
+	EndGlobalSection
+EndGlobal
